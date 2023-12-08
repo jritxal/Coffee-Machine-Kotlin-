@@ -10,6 +10,9 @@
       <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-test-results.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task-build-tmp.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Coffee_Machine__Kotlin_-task.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-Find_the_output.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-FTN-Numbers.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-When_expression-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).util.main" target="8" />
     </bytecodeTargetLevel>
   </component>
