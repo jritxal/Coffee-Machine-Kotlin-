@@ -1,4 +1,4 @@
-enum class Rainbow(val color:String){
+enum class Rainbow(val color: String) {
     RED("red"),
     ORANGE("orange"),
     YELLOW("yellow"),
@@ -8,14 +8,15 @@ enum class Rainbow(val color:String){
     VIOLET("violet");
 }
 
-fun belongs(colorToCheck:String):Boolean{
-    for(color in Rainbow.values()){
-        if(color.color == colorToCheck){
+fun belongs(colorToCheck: String): Boolean {
+    for (color in Rainbow.values()) {
+        if (color.color == colorToCheck) {
             return true
         }
     }
     return false
 }
+
 fun main() {
     // put your code here
     val color = readln()

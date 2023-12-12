@@ -38,6 +38,8 @@
             <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
             <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
             <option value="$PROJECT_DIR$/Topics/Enum/Danger level" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Methods and parameters of Enum" />
             <option value="$PROJECT_DIR$/Topics/Enum/Rainbow colors" />
             <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
             <option value="$PROJECT_DIR$/Topics/Enum/entries property" />
@@ -62,6 +64,10 @@
             <option value="$PROJECT_DIR$/Topics/Named arguments/Invocations" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
             <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/City population" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Field access" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Mutable state" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
             <option value="$PROJECT_DIR$/Topics/When expression/A simple calculator" />
             <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
             <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
