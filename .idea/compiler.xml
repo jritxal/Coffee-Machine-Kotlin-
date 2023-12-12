@@ -29,6 +29,8 @@
       <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Summation.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Enum-Currencies.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Danger_level.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-entries_property.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Enum-Rainbow_colors.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Enum-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Create_a_full_name.main" target="8" />
