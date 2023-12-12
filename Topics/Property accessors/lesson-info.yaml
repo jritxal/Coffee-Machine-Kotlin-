@@ -3,3 +3,5 @@ content:
   - Mutable state
   - Field access
   - City population
+  - Custom setter
+  - Weather comparison
