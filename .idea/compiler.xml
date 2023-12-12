@@ -43,6 +43,9 @@
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Some_exceptions.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-What_are_the_advantages_of_decomposing.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Jumps_and_returns-Correct_jumping.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Jumps_and_returns-First_digit.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Jumps_and_returns-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Facts_about_member_functions.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Keyword_to_declare_a_member_function.main" target="8" />
