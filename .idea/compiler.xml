@@ -28,6 +28,8 @@
       <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Car_speed.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Summation.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Default_arguments-Theory.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Currencies.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Enum-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Create_a_full_name.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-How_to_improve_a_compound_program.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Items_of_functional_decomposition.main" target="8" />
@@ -37,6 +39,11 @@
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Functional_decomposition-What_are_the_advantages_of_decomposing.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Facts_about_member_functions.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Keyword_to_declare_a_member_function.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Member_functions'_return_type.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Operations.main" target="8" />
+      <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Patient_needs_a_doctor.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Member_functions-Theory.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Determine_the_result.main" target="8" />
       <module name="Coffee_Machine_(Kotlin).Topics-Named_arguments-Find_the_correct_invocations.main" target="8" />
